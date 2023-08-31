@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author GokulElango
+ * @author PremkumarSubramanian
  */
 public class Master_Login extends javax.swing.JFrame {
 
