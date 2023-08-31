@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author GokulElango
+ * @author PremkumarSubramanian
  */
 public class Master_Signup extends javax.swing.JFrame {
 
